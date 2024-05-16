@@ -38,4 +38,3 @@ elif opcao == 2:
        quit
 elif opcao == 3:
     quit
-print('ola')
